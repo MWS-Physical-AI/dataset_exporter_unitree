@@ -1,0 +1,13 @@
+# Host-side dependencies. LeRobot is pinned to the revision used by the source repository.
+numpy==1.26.4
+scipy==1.15.3
+pin==2.7.0
+pyzmq
+msgpack
+msgpack-numpy
+tyro
+pyttsx3==2.90
+av>=14.2
+opencv-python==4.11.0.86
+datasets==3.6.0
+lerobot @ git+https://github.com/huggingface/lerobot.git@a445d9c9da6bea99a8972daa4fe1fdd053d711d2

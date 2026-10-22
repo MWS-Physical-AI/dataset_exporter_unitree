@@ -1,0 +1,6 @@
+.venv_data_collection/
+outputs/
+camera_recordings/
+__pycache__/
+*.pyc
+outputs/
